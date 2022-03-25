@@ -90,3 +90,10 @@
 // let functionCall = concertDisplay(question)
 
 let desktopItems = ["desk", "monitor", "keyboard"]
+console.log(desktopItems[1])
+desktopItems.push("Infinity Gauntlet")
+let desktopLength = desktopItems.length
+
+for(let i = 0; i < desktopLength; i++) {
+    console.log(desktopItems[i])
+}
