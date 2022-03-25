@@ -28,7 +28,7 @@
 // }
 
 // else if(timeOfDay > 1700) {
-//     meal = "pizza"
+//     meal = "pizza";
 // }
 
 // console.log(meal);
@@ -36,27 +36,57 @@
 // let randomNumber = Math.floor(Math.random() * 11);
 
 // if(randomNumber === 0 || randomNumber === 1 || randomNumber === 2) {
-//     console.log("Beatles")
+//     console.log("Beatles");
 // }
 // else if(randomNumber === 3 || randomNumber === 4 || randomNumber === 5) {
-//     console.log("Stones")
+//     console.log("Stones");
 // }
 // else if(randomNumber === 6 || randomNumber === 7 || randomNumber === 8) {
-//     console.log("Floyd")
+//     console.log("Floyd");
 // }
 // else if(randomNumber === 9 || randomNumber === 10) {
-//     console.log("Hendrix")
+//     console.log("Hendrix");
 // }
 
 // for(let i = 0; i < 7; i++) {
-//     console.log("JavaScript is cool!")
+//     console.log("JavaScript is cool!");
 // }
 
 // for(let i = 0; i < 11; i++) {
-//     console.log(i)
+//     console.log(i);
 // }
 
-for(let i = 0; i < 5; i++) {
-    console.log("hello")
-    console.log("goodbye")
-}
+// for(let i = 0; i < 5; i++) {
+//     console.log("hello");
+//     console.log("goodbye");
+// }
+
+// let isInstructorAwesome = true
+
+// while(isInstructorAwesome == true) {
+
+// }
+
+// function printMovieName() {
+//     let bestMovie = "Spirited Away";
+//     console.log(bestMovie);
+// }
+
+// let myResult = printMovieName()
+
+// function favoriteBand() {
+//     let question = prompt("Enter your favorite band.");
+//     return question;
+// }
+
+// let question = favoriteBand()
+// console.log(question)
+
+// function concertDisplay(musicalAct) {
+//     let myStreet = prompt("Enter your street name");
+//     console.log(`It would be great if ${musicalAct} played a show at ${myStreet}!`);
+// }
+
+// let functionCall = concertDisplay(question)
+
+let desktopItems = ["desk", "monitor", "keyboard"]
